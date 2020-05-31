@@ -1,0 +1,16 @@
+{
+  "group": "heavenlydumpstercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "heavenlydumpstercraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "heavenlydumpstercraft:copper_ingot",
+    "count": 9
+  }
+}

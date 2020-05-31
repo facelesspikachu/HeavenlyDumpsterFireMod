@@ -1,0 +1,42 @@
+{
+  "group": "heavenlydumpstercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "1": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "2": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "3": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "4": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "5": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "6": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "7": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    },
+    "8": {
+      "item": "heavenlydumpstercraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "heavenlydumpstercraft:copper_block",
+    "count": 1
+  }
+}

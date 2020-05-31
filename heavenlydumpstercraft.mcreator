@@ -98,6 +98,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "copper_block"
+    },
+    {
+      "name": "CopperPlate",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_plate"
+    },
+    {
+      "name": "CopperIngotR",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot_r"
+    },
+    {
+      "name": "CopperBlockR",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_r"
+    },
+    {
+      "name": "CopperPlateR",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_plate_r"
+    },
+    {
+      "name": "CopperBlockBR",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_br"
     }
   ],
   "variable_elements": [],
@@ -106,6 +151,7 @@
     "en_us": {
       "block.heavenlydumpstercraft.socialism_ore_block": "Socialism Ore Block",
       "block.heavenlydumpstercraft.copper_ore": "Copper Ore",
+      "item.heavenlydumpstercraft.copper_plate": "Copper Plate",
       "item.heavenlydumpstercraft.copper_ingot": "Copper Ingot",
       "item.heavenlydumpstercraft.socialism_gem": "Socialism Crystal",
       "block.heavenlydumpstercraft.socialism_block": "Socialism Block",
