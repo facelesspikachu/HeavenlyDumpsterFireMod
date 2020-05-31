@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "heavenlydumpstercraft:blocks/copperore",
+    "up": "heavenlydumpstercraft:blocks/copperore",
+    "north": "heavenlydumpstercraft:blocks/copperore",
+    "east": "heavenlydumpstercraft:blocks/copperore",
+    "south": "heavenlydumpstercraft:blocks/copperore",
+    "west": "heavenlydumpstercraft:blocks/copperore",
+    "particle": "heavenlydumpstercraft:blocks/copperore"
+  }
+}

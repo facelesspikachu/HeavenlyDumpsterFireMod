@@ -2,12 +2,12 @@
   "_fv": 8,
   "_type": "block",
   "definition": {
-    "texture": "socialismblock",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
+    "texture": "copperore",
+    "textureTop": "copperore",
+    "textureLeft": "copperore",
+    "textureFront": "copperore",
+    "textureRight": "copperore",
+    "textureBack": "copperore",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,10 +20,10 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Socialism Block",
+    "name": "Copper Ore",
     "specialInfo": [],
-    "hardness": 3.0,
-    "resistance": 3.0,
+    "hardness": 2.0,
+    "resistance": 10.5,
     "hasGravity": false,
     "creativeTab": {
       "value": "BUILDING_BLOCKS"
@@ -33,7 +33,7 @@
       "value": ""
     },
     "dropAmount": 1,
-    "isBeaconBase": true,
+    "isBeaconBase": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
@@ -61,7 +61,7 @@
     },
     "luminance": 0.0,
     "unbreakable": false,
-    "breakHarvestLevel": 2,
+    "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -79,7 +79,9 @@
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "inventoryInSlotIDs": [],
-    "spawnWorldTypes": [],
+    "spawnWorldTypes": [
+      "Surface"
+    ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
@@ -87,7 +89,7 @@
       }
     ],
     "frequencyPerChunks": 10,
-    "frequencyOnChunk": 16,
+    "frequencyOnChunk": 7,
     "minGenerateHeight": 0,
     "maxGenerateHeight": 64
   }

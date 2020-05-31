@@ -1,5 +1,8 @@
 {
   "block.heavenlydumpstercraft.socialism_ore_block": "Socialism Ore Block",
+  "block.heavenlydumpstercraft.copper_ore": "Copper Ore",
+  "item.heavenlydumpstercraft.copper_ingot": "Copper Ingot",
   "item.heavenlydumpstercraft.socialism_gem": "Socialism Crystal",
-  "block.heavenlydumpstercraft.socialism_block": "Socialism Block"
+  "block.heavenlydumpstercraft.socialism_block": "Socialism Block",
+  "block.heavenlydumpstercraft.copper_block": "Copper Block"
 }

@@ -22,11 +22,11 @@ import java.util.List;
 import java.util.Collections;
 
 @HeavenlydumpstercraftModElements.ModElement.Tag
-public class SocialismBlockBlock extends HeavenlydumpstercraftModElements.ModElement {
-	@ObjectHolder("heavenlydumpstercraft:socialism_block")
+public class CopperBlockBlock extends HeavenlydumpstercraftModElements.ModElement {
+	@ObjectHolder("heavenlydumpstercraft:copper_block")
 	public static final Block block = null;
-	public SocialismBlockBlock(HeavenlydumpstercraftModElements instance) {
-		super(instance, 3);
+	public CopperBlockBlock(HeavenlydumpstercraftModElements instance) {
+		super(instance, 9);
 	}
 
 	@Override
@@ -37,9 +37,9 @@ public class SocialismBlockBlock extends HeavenlydumpstercraftModElements.ModEle
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(3f, 3f).lightValue(0).harvestLevel(2)
+			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 4f).lightValue(0).harvestLevel(1)
 					.harvestTool(ToolType.PICKAXE));
-			setRegistryName("socialism_block");
+			setRegistryName("copper_block");
 		}
 
 		@Override
