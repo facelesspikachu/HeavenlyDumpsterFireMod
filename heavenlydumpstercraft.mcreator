@@ -1,10 +1,49 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "SocialismGemFoodEaten",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "socialism_gem_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SocialismGem",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "socialism_gem"
+    },
+    {
+      "name": "SocialismOreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "socialism_ore_block"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.heavenlydumpstercraft.socialism_ore_block": "Socialism Ore Block",
+      "item.heavenlydumpstercraft.socialism_gem": "Socialism Crystal"
+    }
   },
   "workspaceSettings": {
     "modid": "heavenlydumpstercraft",

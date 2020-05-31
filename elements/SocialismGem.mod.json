@@ -1,0 +1,25 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "socialismgem",
+    "customModelName": "Normal",
+    "name": "Socialism Crystal",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 7,
+    "saturation": 0.5,
+    "eatingSpeed": 100,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "SocialismGemFoodEaten"
+    }
+  }
+}
