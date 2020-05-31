@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "heavenlydumpstercraft:blocks/socialismblock",
+    "up": "heavenlydumpstercraft:blocks/socialismblock",
+    "north": "heavenlydumpstercraft:blocks/socialismblock",
+    "east": "heavenlydumpstercraft:blocks/socialismblock",
+    "south": "heavenlydumpstercraft:blocks/socialismblock",
+    "west": "heavenlydumpstercraft:blocks/socialismblock",
+    "particle": "heavenlydumpstercraft:blocks/socialismblock"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "heavenlydumpstercraft",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "heavenlydumpstercraft:socialism_ore_block"
+  },
+  "result": {
+    "item": "heavenlydumpstercraft:socialism_gem"
+  }
+}

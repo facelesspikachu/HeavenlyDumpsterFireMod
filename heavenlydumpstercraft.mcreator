@@ -35,6 +35,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "socialism_ore_block"
+    },
+    {
+      "name": "SocialismBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "socialism_block"
+    },
+    {
+      "name": "SocialismBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "socialism_block_recipe"
+    },
+    {
+      "name": "SocialismGemRecipe1",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "socialism_gem_recipe_1"
+    },
+    {
+      "name": "SocialismGemRecipe2",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "socialism_gem_recipe_2"
     }
   ],
   "variable_elements": [],
@@ -42,7 +78,8 @@
   "language_map": {
     "en_us": {
       "block.heavenlydumpstercraft.socialism_ore_block": "Socialism Ore Block",
-      "item.heavenlydumpstercraft.socialism_gem": "Socialism Crystal"
+      "item.heavenlydumpstercraft.socialism_gem": "Socialism Crystal",
+      "block.heavenlydumpstercraft.socialism_block": "Socialism Block"
     }
   },
   "workspaceSettings": {

@@ -1,0 +1,42 @@
+{
+  "group": "heavenlydumpstercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "1": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "2": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "3": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "4": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "5": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "6": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "7": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    },
+    "8": {
+      "item": "heavenlydumpstercraft:socialism_gem"
+    }
+  },
+  "result": {
+    "item": "heavenlydumpstercraft:socialism_block",
+    "count": 1
+  }
+}
